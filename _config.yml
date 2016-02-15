@@ -1,7 +1,7 @@
 name: nk
 favicon: null
-layout_spectrum: 0.504026368027553
-typography_spectrum: 0.34528
+layout_spectrum: 0.68092
+typography_spectrum: 0.07475
 title: nk design
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.6249933454673737
-  lightness: 0.3583145900629461
-  saturation: 0.5159716093912721
-  rhythmicContrast: 0.2496589832007885
+  brandStrength: 0.625
+  lightness: 0.625
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
