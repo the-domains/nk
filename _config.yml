@@ -1,0 +1,28 @@
+name: nk
+favicon: null
+layout_spectrum: 0.504026368027553
+typography_spectrum: 0.043536278419196606
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6249933454673737
+  lightness: 0.3583145900629461
+  saturation: 0.5159716093912721
+  rhythmicContrast: 0.2496589832007885
+purpose: []
